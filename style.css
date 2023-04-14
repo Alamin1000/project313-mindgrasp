@@ -214,6 +214,8 @@ p:last-child{
   color: #848199;
   font-size: 17px;
   font-weight: 400;
+  margin-left: 8px;
+  display: inline-block;
 }
 .pricing-card--highlight .pricing-card__price .sml {
   color: #fff;
